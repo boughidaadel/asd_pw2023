@@ -1,4 +1,4 @@
-# PW Series Solutions in C
+# PW Series Solutions in C (for ING students)
 
 ## Introduction
 
